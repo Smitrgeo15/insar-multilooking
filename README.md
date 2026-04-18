@@ -159,5 +159,3 @@ Total: `γ_total = γ_T · γ_geom · γ_dc · γ_thermal · γ_proc`
 MIT License — free to use, modify, and distribute.
 
 ---
-
-*Visualization generated with assistance from Claude (Anthropic).*
